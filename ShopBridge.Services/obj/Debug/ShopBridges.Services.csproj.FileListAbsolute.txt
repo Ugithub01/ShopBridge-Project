@@ -1,0 +1,17 @@
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Services.dll.config
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Services.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Services.pdb
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\EntityFramework.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Database.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Entities.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Database.pdb
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Database.dll.config
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\ShopBridge.Entities.pdb
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\EntityFramework.xml
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\obj\Debug\ShopBridges.Services.csproj.AssemblyReference.cache
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\obj\Debug\ShopBridges.Services.csproj.CoreCompileInputs.cache
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\obj\Debug\ShopBridges.Services.csproj.CopyComplete
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\obj\Debug\ShopBridge.Services.dll
+C:\Users\91967\source\repos\ShopBridge-Ujjwal\ShopBridge.Services\obj\Debug\ShopBridge.Services.pdb
